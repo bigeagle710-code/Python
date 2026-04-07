@@ -1,0 +1,5 @@
+print("WeLcOmE aLl To ThE wOrLd Of CoDiNg")
+print(7)
+print("HeLlO cOdInGaL \n ")
+print("Konichiwa",11)
+print("Welcome to", end-"#")
