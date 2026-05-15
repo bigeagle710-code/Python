@@ -1,4 +1,8 @@
-base = input("Enter the base you want: ")
-exponent = input("Enter the exponent you want : ")
-result = base ** exponent  
-print(result)  
+base = 2
+exponent = 3
+result = 1
+
+for _ in range(exponent):
+    result *= base
+
+print(f"Result: {result}")
